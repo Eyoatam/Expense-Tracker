@@ -1,4 +1,4 @@
-# Mentor Finder
+# Expense Tracker
 
 ## Project Setup
 
